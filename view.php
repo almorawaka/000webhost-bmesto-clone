@@ -1,7 +1,7 @@
 <?php
 /*
-Author: Javed Ur Rehman
-Website: https://www.allphptricks.com/
+Author: almorawaka@gamil.com	
+Website: https://beslakmal.blogspot.com/
 */
  
 require('db.php');
